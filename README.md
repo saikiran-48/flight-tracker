@@ -2,8 +2,6 @@
 
 A simple, responsive Flight Tracker built with React and Material UI. It queries the Aviationstack `flights` endpoint and shows schedule, status, and basic live/meta info for a single flight (search by IATA like `AI188` or numeric flight number).
 
-![airplane](/mnt/data/445e5ed0-76e4-4e5e-a071-c1714b96228d.png)
-
 ---
 
 ## Features
